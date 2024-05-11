@@ -8,7 +8,6 @@ public class iii {
 		for(int i =0 ; i < 10; i++)
 			System.out.println("== hello world!!!");
 		
-		System.out.println("4444444444444444444444444");
 		System.out.println("5555555555555555");
 	}
 
